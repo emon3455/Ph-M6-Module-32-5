@@ -1,4 +1,8 @@
-
+/*
+You have an odd array (array with odd numbers). [ 1, 3, 5, 7, 9 ].
+Now convert this array into an even array (array with even numbers).
+Output: [ 2, 4, 6, 8, 10 ].
+*/
 const odd = [ 1, 3, 5, 7, 9 ];
 
 // way-1:
